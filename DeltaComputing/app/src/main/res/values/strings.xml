@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">FirstTask</string>
+    <string name="html">x2 + </string>
+    <string name="x">x +</string>
+    <string name="_0">= 0</string>
+    <string name="a">a</string>
+    <string name="b">b</string>
+    <string name="c">c</string>
+    <string name="button_text">Compute</string>
+</resources>

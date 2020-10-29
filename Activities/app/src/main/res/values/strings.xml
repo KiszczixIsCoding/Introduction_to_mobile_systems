@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">My Application 2</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+    <string name="second_activity">Second Activity</string>
+    <string name="google">Google</string>
+    <string name="map">Map</string>
+    <string name="phone">Phone</string>
+    <string name="compute_delta">Compute delta</string>
+
+    <string name="compute_app_name">FirstTask</string>
+    <string name="html">x2 + </string>
+    <string name="x">x +</string>
+    <string name="_0">= 0</string>
+    <string name="a">a</string>
+    <string name="b">b</string>
+    <string name="c">c</string>
+    <string name="button_text">Compute</string>
+</resources>
